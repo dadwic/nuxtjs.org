@@ -1,6 +1,7 @@
 const locale = process.env.NUXT_LOCALE || 'en'
 
 export default {
+  // Full Static
   target: 'static',
   ssr: true,
   // modern: 'client',
